@@ -13063,10 +13063,6 @@
         <layout>SBQQ__ConfigurationAttribute__c-SBQQ__Configuration Attribute Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>SBQQ__ConfigurationAttribute__c-SBQQ__Configuration Attribute Layout</layout>
-        <recordType>SBQQ__ConfigurationAttribute__c.SBQQ__Configuration_Attribute</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>SBQQ__ConfigurationAttribute__c-SBQQ__Global Attribute Layout</layout>
         <recordType>SBQQ__ConfigurationAttribute__c.SBQQ__Global_Attribute</recordType>
     </layoutAssignments>
