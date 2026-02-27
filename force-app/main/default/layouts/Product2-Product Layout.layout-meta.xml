@@ -36,10 +36,6 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Test_Delete_2__c</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
                 <field>ProductTestPullRequest1__c</field>
             </layoutItems>
             <layoutItems>
